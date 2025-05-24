@@ -1,6 +1,10 @@
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
   
+  <!-- dynamic typing effect 文本 -->
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=W%20E%20L%20C%20O%20M%20E&fontColor=000000&section=footer&reversal=true&fontAlign=50&fontSize=55&textBg=false" />
+
+  
+  <!-- dynamic typing effect 动态打字效果 -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=391E8C&width=700&lines=Wisdom+in+the+mind+is+better+than+money+in+the+hand.)](https://git.io/typing-svg)
 
 </div>
@@ -13,8 +17,4 @@
 <div align="center">
   <!-- 贡献图 -->
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sreok&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
-</div>
-<div align="center">
-  
-  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreok&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
