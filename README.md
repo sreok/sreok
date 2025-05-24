@@ -7,13 +7,12 @@
   
 </div>
 
-<div align="center">
-  <!-- 统计 -->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=sreok&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-  <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=sreok&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
-</div>
 
 <div align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=sreok&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=sreok&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+</div>
+<div align="center">
   <!-- 贡献图 -->
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sreok&theme=github-compact&hide_border=true&area=true" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sreok&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </div>
